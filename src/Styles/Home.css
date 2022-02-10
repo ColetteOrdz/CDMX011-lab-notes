@@ -1,0 +1,16 @@
+body {
+  background: linear-gradient(#97744b, #f188db);
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+  padding: 6rem 1rem;
+  text-align: center;
+  font-size: 24px;
+  width: auto;
+}
+form {
+  display: flex;
+  flex-direction: column;
+  margin-left: 33%;
+  width: 21.5rem;
+}
